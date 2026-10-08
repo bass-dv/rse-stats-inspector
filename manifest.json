@@ -1,0 +1,13 @@
+{
+  "id": "rse_stats_inspector",
+  "name": "RSE Stats Inspector",
+  "version": "1.0.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "overhaul",
+  "category": "UI",
+  "games": ["ruby", "sapphire", "emerald"],
+  "permissions": ["engine_internals"],
+  "affects_link": false,
+  "description": "Pokemon Stats: blue for nature-boosted stats, red for reduced stats. Press A to cycle STATS / IVs / EVs. Read-only, standalone mod."
+}
